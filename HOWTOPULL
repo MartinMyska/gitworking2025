@@ -1,0 +1,9 @@
+HOW TO PULL tutorial
+
+Jak stáhnout nové commity ze vzdáleného repa.
+
+1. Zhluboka se nadechněte [breathe]
+2. Donavigujte do požadovaného adresáře [cd]
+3. Zkontrolujte, že jste ve správne branchi [git branch -a]
+4. Git pull <remote name> <branch name> [git pull <origin> <main>]
+
