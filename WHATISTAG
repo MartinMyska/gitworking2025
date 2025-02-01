@@ -1,0 +1,1 @@
+Tagy slouží k označování commitů - jedná se o objekt odkazující na určitý commit v historii projektu. Používají se například k označení nové release verze, důležité změny v codebase apod.
