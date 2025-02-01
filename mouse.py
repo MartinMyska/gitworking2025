@@ -1,5 +1,5 @@
 
-def print_ascii_cat():
+def print_ascii_mouse():
     import pdb
     pdb.set_trace()
     with open("mouse.txt") as f:
@@ -7,6 +7,6 @@ def print_ascii_cat():
             print(line)
 
 def main():
-    print_ascii_cat()
+    print_ascii_mouse()
 
 main()
